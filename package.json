@@ -1,0 +1,15 @@
+{
+    "author": "Gary Teh <garyjob@gmail.com>"
+  , "name": "tutorial-server"
+  , "main": "./tutorial_server.coffee"
+  , "version": "0.0.1"
+  , "private": true
+  , "engines": {
+    "node": "=0.8.8"
+  }, 
+  "dependencies": {
+      "ejs": "1.0.0"
+    , "express": "4.8.8"
+    , "body-parser": "1.8.0"
+  }
+}
